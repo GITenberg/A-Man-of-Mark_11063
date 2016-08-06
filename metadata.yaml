@@ -1,0 +1,31 @@
+_repo: A-Man-of-Mark_11063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: A Man of Mark tells the story of three gentlemen who are in love with
+  the heroine, Miss Christina Nugent. They all hope to marry the undecided Miss Nugent.
+  In the midst of a revolution, who will capture her hand?
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'British -- South America -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Bankers -- Fiction'
+- GITenberg
+title: A Man of Mark
+url: http://www.gutenberg.org/ebooks/11063
